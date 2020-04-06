@@ -4,4 +4,8 @@ Monnaie
 Portable
 Mouchoir
 
+<<<<<<< HEAD
 Tason c'est pas moi
+=======
+playstation
+>>>>>>> 4280b4ce7603ee4736b8fb005ea0bef119f6838e
